@@ -1,3 +1,42 @@
+# Frontend Mentor - QR code component solution
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Project](#project)
+
+
+## Overview
+
+### Screenshot
+
+<div align="center">
+ <img src="https://cdn.discordapp.com/attachments/1004504690974801981/1009531137414144020/download.png">
+</div>
+
+### Links
+
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-page-with-a-qr-code-Itvkd7A6Br)
+- Live Site URL: [QR Code](qr-code-h220gb7xg-larissa-pinheiro.vercel.app)
+
+## My process
+
+### Built with
+
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [Next.js](https://nextjs.org/) - React framework
+- [CSS Modules](#) - For styles
+
+## 💻Project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
