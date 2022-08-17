@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 420px;
+  width: 280px;
+  border-radius: 15px;
+  position: absolute;
+  top: 20%;
+  left: 40%;
+  box-shadow: 0 0 1em hsl(212, 45%, 89%);
+}
+
+.image {
+  border-radius: 10px;
+}
+
+.text {
+  font-family: Outfit;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 0 35px;
+}
+
+.title {
+  font-size: 18px;
+  color: hsl(218, 44%, 22%)
+}
+
+.description {
+  font-size: 12px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+}
+
+@media screen and (max-width: 344px) {
+  .container {
+  top: 20%;
+  left: 10%;
+  }
+}

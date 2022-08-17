@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Poppins:wght@400;700&family=Roboto:wght@400;500&display=swap');
+
 html,
 body {
   padding: 0;
@@ -21,6 +23,6 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background: hsl(212, 45%, 89%);
   }
 }
